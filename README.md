@@ -1,0 +1,1 @@
+It is a Blog Web app that offers users the opportunity to share their thoughts, experiences, and expertise with the world through written articles. With a seamless user experience and a sleek interface, our MERN stack-based web app empowers users to register, log in, and start publishing their articles in no time
